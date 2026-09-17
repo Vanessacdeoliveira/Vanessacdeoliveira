@@ -2,7 +2,6 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColor_list=a1c4fd,ffcdd2&height=200&section=header&text=Vanessa%20Oliveira&fontSize=65&fontColor=ffffff&fontAlignY=35&desc=%20%20%20Tecnologia%20%7C%20Cibersegurança%20%20&descSize=18&descColor=ffffff&descAlignY=55&descAlign=50)
 
-
 Me chamo Vanessa Carvalho de Oliveira, tenho 28 anos e sou natural do Rio de Janeiro. Sou formada em Análise e Desenvolvimento de Sistemas na Universidade Veiga de Almeida. Sou apaixonada por tecnologia e compartilho meu conhecimento através deste repositório e também através do meu perfil no Linkedin.
 
 <div data-importer="socials" align="center">
