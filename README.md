@@ -1,34 +1,24 @@
-# 👩🏻‍💻 Vanessa Oliveira
+<div align="center">
 
-**`Estudante de Cybersecurity / Futura Analista Jr. de Cibersegurança`**
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColor_list=a1c4fd,ffcdd2&height=200&section=header&text=Vanessa%20Oliveira&fontSize=65&fontColor=ffffff&fontAlignY=35&desc=%20%20%20Tecnologia%20%7C%20Cibersegurança%20%20&descSize=18&descColor=ffffff&descAlignY=55&descAlign=50)
+
 
 Me chamo Vanessa Carvalho de Oliveira, tenho 28 anos e sou natural do Rio de Janeiro. Sou formada em Análise e Desenvolvimento de Sistemas na Universidade Veiga de Almeida. Sou apaixonada por tecnologia e compartilho meu conhecimento através deste repositório e também através do meu perfil no Linkedin.
 
-<p align="left">
-    <!-- Link para o perfil no LinkedIn (abre em nova aba) -->
-    <a href="https://www.linkedin.com/in/vanessa-carvalho-de-oliveira/" target="_blank">
-        <img 
-            alt="LinkedIn" 
-            title="Conecte-se comigo no LinkedIn" 
-            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-        />
-    </a>
-    <!-- Link para as publicações/posts no LinkedIn (abre em nova aba) -->
-    <a href="https://www.linkedin.com/in/vanessa-carvalho-de-oliveira/recent-activity/all/" target="_blank">
-        <img 
-            alt="Posts LinkedIn" 
-            title="Veja minhas publicações no LinkedIn" 
-            src="https://custom-icon-badges.demolab.com/badge/Meus_Posts-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-        />
-    </a>
-</p>
+<div data-importer="socials" align="center">
+  <a href="https://www.linkedin.com/in/vanessa-carvalho-de-oliveira/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo" /></a><a href="https://www.linkedin.com/in/vanessa-carvalho-de-oliveira/recent-activity/all/" target="_blank"><img src="https://img.shields.io/static/v1?message=Meus%20Posts&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo" /></a><a href="mailto:vanessaoliveira.tech@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo" /></a>
+</div>
+
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=Vanessacdeoliveira.Vanessacdeoliveira&"  />
+</div>
 
 ---
 
 ### 🤖 Linguagens e Tecnologias
 
 <img 
-    align="left" 
+    align="center" 
     alt="HTML"
     title="HTML" 
     width="30px" 
@@ -36,7 +26,7 @@ Me chamo Vanessa Carvalho de Oliveira, tenho 28 anos e sou natural do Rio de Jan
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
 <img 
-    align="left" 
+    align="center" 
     alt="CSS" 
     title="CSS"
     width="30px" 
@@ -44,7 +34,7 @@ Me chamo Vanessa Carvalho de Oliveira, tenho 28 anos e sou natural do Rio de Jan
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
 <img 
-    align="left" 
+    align="center" 
     alt="JavaScript" 
     title="JavaScript"
     width="30px" 
@@ -52,7 +42,7 @@ Me chamo Vanessa Carvalho de Oliveira, tenho 28 anos e sou natural do Rio de Jan
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 <img 
-    align="left" 
+    align="center" 
     alt="Python" 
     title="Python"
     width="30px" 
@@ -60,7 +50,7 @@ Me chamo Vanessa Carvalho de Oliveira, tenho 28 anos e sou natural do Rio de Jan
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 <img 
-    align="left" 
+    align="center" 
     alt="Git" 
     title="Git"
     width="30px" 
