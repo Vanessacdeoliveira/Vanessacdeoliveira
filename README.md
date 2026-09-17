@@ -60,18 +60,7 @@ Me chamo Vanessa Carvalho de Oliveira, tenho 28 anos e sou natural do Rio de Jan
 ---
 
 ### 📊 Estatísticas
-
-<p align="center">
-  <a href="https://github.com/Vanessacdeoliveira">
-    <img src="https://github-stats-extended.vercel.app/api/?username=Vanessacdeoliveira&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Estat%C3%ADsticas+do+GitHub&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed" alt="GitHub Stats" />
-  </a>
-  <picture>
-    <source
-      srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=Vanessacdeoliveira&langs_count=4&theme=dark_github&custom_title=Linguagens+Mais+Usadas"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Vanessacdeoliveira&langs_count=4&theme=light_github&custom_title=Linguagens+Mais+Usadas" alt="Linguagens Mais Usadas" />
-  </picture>
-</p>
-
+![](https://github-readme-stats.shion.dev/api?username=Vanessacdeoliveira&theme=neon&hide_border=false&include_all_commits=true&count_private=true)
+![](https://streak-stats.demolab.com/?user=Vanessacdeoliveira&theme=neon&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Vanessacdeoliveira&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 </div>
