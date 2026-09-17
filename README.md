@@ -10,7 +10,7 @@ Me chamo Vanessa Carvalho de Oliveira, tenho 28 anos e sou natural do Rio de Jan
 </div>
 
 <div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=Vanessacdeoliveira.Vanessacdeoliveira&"  />
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=Vanessacdeoliveira.Vanessacdeoliveira&" />
 </div>
 
 ---
@@ -58,23 +58,21 @@ Me chamo Vanessa Carvalho de Oliveira, tenho 28 anos e sou natural do Rio de Jan
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
-<br/>
-<br/>
+---
 
 ### 📊 Estatísticas
 
-   [![Vanessacdeoliveira's GitHub stats](https://github-stats-extended.vercel.app/api/?username=Vanessacdeoliveira&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Vanessacdeoliveira's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)](https://github-stats-extended.vercel.app/api/?username=Vanessacdeoliveira&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Vanessacdeoliveira's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)
-
-
- <picture>
+<p align="center">
+  <a href="https://github.com/Vanessacdeoliveira">
+    <img src="https://github-stats-extended.vercel.app/api/?username=Vanessacdeoliveira&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Estat%C3%ADsticas+do+GitHub&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed" alt="GitHub Stats" />
+  </a>
+  <picture>
     <source
-      srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=Vanessacdeoliveira&langs_count=4&theme=dark_github"
+      srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=Vanessacdeoliveira&langs_count=4&theme=dark_github&custom_title=Linguagens+Mais+Usadas"
       media="(prefers-color-scheme: dark)"
     />
-    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Vanessacdeoliveira&langs_count=4&theme=light_github" alt="Top Langs" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Vanessacdeoliveira&langs_count=4&theme=light_github&custom_title=Linguagens+Mais+Usadas" alt="Linguagens Mais Usadas" />
   </picture>
+</p>
 
-
-
-
-
+</div>
