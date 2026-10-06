@@ -16,7 +16,7 @@ Me chamo Vanessa Carvalho de Oliveira, tenho 28 anos e sou natural do Rio de Jan
 
 ### 🛡️🤖 Certificações e Insígnias:
 
-<p align="left">
+<p align="center">
   <!-- Introduction to Cybersecurity -->
   <a href="https://www.credly.com/badges/bfc02087-e9b9-469d-8c2e-6897e8881b38" target="_blank">
     <img align="center" alt="Introduction to Cybersecurity" title="Introduction to Cybersecurity" width="65px" style="padding-right: 15px;" src="https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" />
